@@ -7,4 +7,3 @@ For Amazon Prime - https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-a
 For Netflix - https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 
-For Maven Pizza Visual - Data Source Link is - https://www.mavenanalytics.io/data-playground
