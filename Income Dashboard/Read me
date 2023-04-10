@@ -1,0 +1,8 @@
+I have created this Income Statement dashboard  in Power BI.
+I fetched data of Microsoft (5 year data i.e. 2022-2017) from using the link - https://www.macrotrends.net/stocks/charts/MSFT/microsoft/income-statement
+Then i peformed data cleaning , data modelling ,created calculated columns in Power BI.
+
+Summary of dashboard :
+Total Revenue of year 2022 & last year 2021 revenue comparison using KPI visual.
+Total Gross Profit of year 2022 & last year 2021 Gross Profit comparison using KPI visual.
+Total Net Income of year 2022 & last year 2021 Net Income comparison using KPI visual.
